@@ -1,0 +1,32 @@
+{
+  "Elementos": [
+    {
+      "id": 2,
+      "item": "Casa"
+    },
+    {
+      "id": 3,
+      "item": "Celular"
+    },
+    {
+      "id": 4,
+      "item": "Moto GP"
+    },
+    {
+      "item": "Bicicleta",
+      "id": 5
+    },
+    {
+      "item": "Apartamento",
+      "id": 6
+    },
+    {
+      "item": "Carro 🚔",
+      "id": 7
+    },
+    {
+      "item": "Nevera",
+      "id": 8
+    }
+  ]
+}

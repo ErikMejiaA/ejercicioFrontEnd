@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap');
+
+* {
+    margin: 0 auto;
+    padding: 0.5rem;
+    
+}
+
+main {
+    font-family: 'Inconsolata', monospace;
+    display: grid;
+    grid-template-columns: 450px 1fr;
+    gap: 64px;
+
+}
+
+h1 {
+    font-size: 2rem;
+    margin: 0;
+    color: blue;
+}
+
+h2 {
+    font-size: 1.1rem;
+    margin: 0;
+    color: darkcyan;
+    font-weight: 900;
+}
+
+form {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    font-size: 1rem;
+    color: blueviolet;
+    font-weight: 900;
+}
+
+input { 
+    border-radius: 20px;
+    border: 2px solid;
+    background: aqua;
+}
+
+#enviar {
+    border-radius: 20px;
+    border: 1.5px solid;
+    background-color: chocolate;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 800;
+    cursor: pointer;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+}
+
+.eliminar {
+    border-radius: 20px;
+    border: 1px solid;
+    font-family: 'Inconsolata', monospace;
+    font-size: 12px;
+    cursor: pointer;
+    height: 25px;
+    background-color: blanchedalmond;
+}
+
